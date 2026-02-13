@@ -2,5 +2,6 @@
 
 目前有skill
   Banesco Monitor 它有余额查询和转账功能
+  Bcv Rates BCV汇率抓取功能
 
 对于Skill，随便找一个Agent安装就行了，比如OpenClaw
